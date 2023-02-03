@@ -82,3 +82,24 @@ I have noticed sometimes the game looks weird until I open / close the map, unsu
     
 ### NVE INSTALL - Roads + White Lights    
 
+```sh
+From NVE - FiveM Package.zip\Main Package\mods
+copy:
+    - a_NVE_Models_and_Textures.rpf
+    - a_NVE_Models_and_Textures_2.rpf
+    - z_NVE_Steet_Lights.rpf
+    
+From NVE - FiveM Package.zip\Optional Add-Ons\2.Street Lights Pack\White Street Light
+copy in:
+     - z_NVE_Steet_Lights.rpf
+     
+From NVE - FiveM Package.zip\Optional Add-Ons\5.Parallax Roads
+copy in:
+%localappdata%FiveM > FiveM Application Data > Mods 
+
+
+From NVE - FiveM Package.zip\Optional Add-Ons\2.Street Lights Pack\White Street Light
+    - copy entire folder => sahderinput 
+    in C:\Program Files\Steam\SteamLibrary\steamapps\common\Grand Theft Auto V
+
+
