@@ -42,13 +42,13 @@ I have noticed sometimes the game looks weird until I open / close the map, unsu
 
 
 ## Activate the following when the Re-Shader is on
-
-#### Technicolor2 [technicolor2.fx]
+ you must change the valuse in between [] - in order to have the same output
+##### Technicolor2 [technicolor2.fx]
     - R:[55] | G:[55] | B:[55] > ColorStrength
     - [0.970] > Brightness
     - [1.048] > Saturation
     - [0.794] > Strength
-#### MXA0 [qUINT_maxo.fx]
+##### MXA0 [qUINT_maxo.fx]
     - [Ultra 64 Samples] > Samle Quality
     - [7.000] > Sample Radius
     - [0.700] > Reder Size Scale
@@ -62,10 +62,13 @@ I have noticed sometimes the game looks weird until I open / close the map, unsu
     - [0.008] > Fade Out Start
     - [0.205] > Fade Out End
     
-#### Levels [Levels.fx]
+##### Levels [Levels.fx]
     - [8] > Black Point 
     - [255] > White Point
-### Curves [Curves.fx]
+##### Curves [Curves.fx]
     - [Chroma] > Mode
     - [Half-circles] > Formula
     - [0.007] > Contrast
+    
+    
+### NVE INSTALL - Roads + White Lights    
