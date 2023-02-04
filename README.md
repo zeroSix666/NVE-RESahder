@@ -1,4 +1,4 @@
-# Install NVE + Koil_Sahders
+# Install NVE(DEC + FEB) + Koil_Sahders
 ### _HUNCHO - 666_
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
